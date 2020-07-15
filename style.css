@@ -1,0 +1,260 @@
+
+.phandau{
+    background: #333333 none repeat scroll 0 0; 
+    padding-bottom: 200px;
+    margin-bottom:100px ;
+    color: #ffffff;
+    text-align: center;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    overflow-x: hidden;
+    background-color: #ffffff;
+}
+footer{
+    background: #222222;
+    padding: 100px;
+}
+footer p{
+    text-align: center;
+    color: blanchedalmond;
+}
+.phanloai{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.phanloai a >.active{
+    padding: 10px 30px;
+    margin: 15px 3px 20px ;
+    background: #f1f1f1;
+    border-radius: 25px ;
+    color: #000;
+    font-weight: bolder;
+}
+.phanloai a >.active:hover{
+    background: #f1f1f1;
+    color: tomato;
+}
+.thanbai h2{
+    color: #232323;   
+    font-weight: 700;
+    display: inline-block;
+    position: relative;
+    text-transform: uppercase;
+    margin: 0px 0px 80px;
+    padding: 0px 0px 20px;
+}
+.thanbai>h2::before {
+    left: 50%;
+    margin-left: 495px;
+}
+.thanbai>h2::before {
+    background: #f44336 none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    height: 2px;
+    left: 30px;
+    position: absolute;
+    width: 50px;
+}
+.thanbai>h2::after {
+    left: 50%;
+    margin-left: 485px;
+}
+.thanbai>h2::after {
+    background: #232323 none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    height: 2px;
+    left: 0;
+    position: absolute;
+    width: 25px;
+}
+span{
+    color: tomato;
+}
+.thanbai p{
+    color: #232323;
+    margin-top: -65px;
+    width: 66%;
+    font-weight: 400;
+    margin-left: 203px;
+    line-height: 26px;
+    text-transform: none;
+    margin-bottom: 50px;
+}
+.one {
+    display: block;
+    justify-content: center;
+    width: 100% !important;
+    padding: 0 12% !important;
+    margin: 0 !important;
+    text-align: center;
+}
+h4 {
+    margin: 30px 0;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+.container .row{
+    padding-bottom: 50px;
+}
+.col-md-4 :hover{
+    background: tomato;
+}
+.div1{
+    background: #ffffff;
+}
+.div2{
+    background: #ffffff;
+}
+.div3{
+    background: #ffffff;
+}
+.div4{
+    background: #ffffff;
+}
+.div5{
+    background: #ffffff;
+}
+.div6{
+    background: #ffffff;
+}
+.phangiua{
+    padding-top: 30px;
+    background: #f9f9f9;
+}
+.thanbai1 h2{
+    color: #232323;   
+    font-weight: 700;
+    display: inline-block;
+    position: relative;
+    text-transform: uppercase;
+    margin: 0px 0px 80px;
+    padding: 0px 0px 20px;
+}
+.thanbai1>h2::before {
+    left: 50%;
+    margin-left: 98px;
+}
+.thanbai1>h2::before {
+    background: #f44336 none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    height: 2px;
+    left: 30px;
+    position: absolute;
+    width: 50px;
+}
+.thanbai1>h2::after {
+    left: 50%;
+    margin-left: 86px;
+}
+.thanbai1>h2::after {
+    background: #232323 none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    height: 2px;
+    left: 0;
+    position: absolute;
+    width: 25px;
+}
+.thanbai1 >p {
+    margin-top: -50px;
+    margin-bottom: 1rem;
+}
+span{
+    color: tomato;
+}
+.phanket{
+    
+    background: #f9f9f9;
+}
+.diva h4 {
+    display: flex;
+    justify-content: center;
+    margin: 41px 0;
+    width: 90px;
+    height: 20px;
+    font-weight: 700;
+    font-size: 0.8rem;
+    background: #2323;
+}
+.thea{
+    text-decoration: none;
+    color: #232323;
+}
+.h2, h2 {
+    width: 100%;
+    padding: 0 -3% !important;
+    font-size: 2rem;
+}
+a {
+    color: #232323;
+    text-decoration: none;
+    background-color: transparent;
+}
+a:hover {
+    text-decoration: none;
+    color: yellow;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+.text-center {
+    text-align: center;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    overflow-x: hidden;
+    background-color: #ffffff;
+}
+
+.text-light {
+    color: #f8f9fa!important;
+}
+.text-center {
+    text-align: center!important;
+}
+.bg-dark {
+    background-color: #343a40!important;
+}
+footer {
+    background: #222222;
+    padding: 100px;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+footer {
+    display: block;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    overflow-x: hidden;
+    background-color: #ffffff;
+}
